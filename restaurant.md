@@ -1,1 +1,1 @@
-<img src="https://rawgit.com/yulianasenok/xm/master/gu/rest_group.png" width="900">
+<img src="https://cdn.rawgit.com/yulianasenok/xm/master/rest_group.png" width="900">
