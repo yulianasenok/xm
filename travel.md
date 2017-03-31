@@ -1,1 +1,1 @@
-<img src="https://github.com/yulianasenok/xm/blob/master/trav_group.png" width="900">
+<img src="https://cdn.rawgit.com/yulianasenok/xm/master/trav_group.png" width="900">
