@@ -1,3 +1,3 @@
 [resr]
 
-<img src="https://cdn.rawgit.com/yulianasenok/xm/master/rest_group.png" width="900">
+<img src="https://cdn.jsdelivr.net/gh/yulianasenok/xm/rest_group.png" width="900">
